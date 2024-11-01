@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="687923bf-dfb4-4b81-82af-2492bdd5c356" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cursoreact/src/FunTranslation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cursoreact/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/cursoreact/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cursoreact/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/cursoreact/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cursoreact/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/cursoreact/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cursoreact/src/Hello.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursoreact/src/ChuckNorrisJoke.js" beforeDir="false" afterPath="$PROJECT_DIR$/cursoreact/src/CepInfo.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       <workItem from="1730452148035" duration="48000" />
       <workItem from="1730452204174" duration="906000" />
       <workItem from="1730454586700" duration="3880000" />
-      <workItem from="1730458523638" duration="2068000" />
+      <workItem from="1730458523638" duration="3323000" />
     </task>
     <servers />
   </component>

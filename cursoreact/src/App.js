@@ -1,11 +1,11 @@
 // src/App.js
 import React from 'react';
-import ChuckNorrisJoke from './ChuckNorrisJoke';
+import CepInfo from './CepInfo';
 
 const App = () => {
   return (
     <div>
-      <ChuckNorrisJoke />
+      <CepInfo />
     </div>
   );
 };
