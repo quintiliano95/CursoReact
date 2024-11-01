@@ -1,16 +1,18 @@
-/* src/CepInfo.css */
 body {
-  background-color: #f0f4f8;
+  background: linear-gradient(135deg, #9B0000, #000000);
   font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
 }
 
 .cep-info-container {
   max-width: 600px;
   margin: 50px auto;
   padding: 20px;
-  border-radius: 8px;
+  border-radius: 15px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.9);
   text-align: center;
 }
 
