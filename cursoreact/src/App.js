@@ -1,12 +1,13 @@
+// src/App.js
 import React from 'react';
-import Hello from './Hello';
+import ChuckNorrisJoke from './ChuckNorrisJoke';
 
-function App() {
+const App = () => {
   return (
     <div>
-      <Hello name="Alexandre" />
+      <ChuckNorrisJoke />
     </div>
   );
-}
+};
 
 export default App;
